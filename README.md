@@ -1,2 +1,0 @@
-# ReportePractica1JuanFranciscoVarelaArzate
-Práctica 1 Fundamentos de Programación
